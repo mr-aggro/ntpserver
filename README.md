@@ -1,10 +1,6 @@
 ntpserver
 =========
 
-A Python based ntp server.
-
-Tested on Linux and Windows7.
-
+A Python3.8 based ntp server.
 Based on ntplib(https://pypi.python.org/pypi/ntplib/), thanks for their work.
-
-If you have any question, please contact me at limifly@gmail.com.
+Based on https://github.com/limifly/ntpserver
